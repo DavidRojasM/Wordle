@@ -1,0 +1,55 @@
+Bienvenido al juego del Wordle:
+
+
+Tienes 6 intentos restantes
+
+
+Escribe tu palabra de 5 letras: asdgg
+asdgg
+
+Tienes 5 intentos restantes
+
+asdgg
+
+Escribe tu palabra de 5 letras: asdfg
+asdfg
+
+Tienes 4 intentos restantes
+
+asdgg
+asdfg
+
+Escribe tu palabra de 5 letras: asdfg
+asdfg
+
+Tienes 3 intentos restantes
+
+asdgg
+asdfg
+asdfg
+
+Escribe tu palabra de 5 letras: asdfg
+asdfg
+
+Tienes 2 intentos restantes
+
+asdgg
+asdfg
+asdfg
+asdfg
+
+Escribe tu palabra de 5 letras: asdfg
+asdfg
+
+Tienes 1 intentos restantes
+
+asdgg
+asdfg
+asdfg
+asdfg
+asdfg
+
+Escribe tu palabra de 5 letras: asdfg
+Lo sentimos, te has quedado sin intentos. Vuelve a intentarlo en otra ocasión.
+La palabra correcta era: maría
+
